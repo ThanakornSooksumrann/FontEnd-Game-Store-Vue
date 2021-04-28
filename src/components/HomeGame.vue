@@ -17,7 +17,7 @@
             <img src="https://cdn.80.lv/api/upload/post/5945/images/5d2d21447493d/widen_1220x0.png" height="500" style="opacity: 0.9; ">
             <div class="carousel-caption text-warning">
                 <h3><b>สุดยอดเกมระดับตำนาน</b></h3>
-                <p><b>ดีกว่านี่ไม่มีอีกแล้วต้องเกมนี้เท่านั้น ตามล่าหา Error ที่หายไป</b></p>
+                <p><b>ดีกว่านี่ไม่มีอีกแล้วต้องเกมนี้เท่านั้น ตามล่าหาสมบัติ</b></p>
             </div>
             </div>
             <div class="carousel-item">
