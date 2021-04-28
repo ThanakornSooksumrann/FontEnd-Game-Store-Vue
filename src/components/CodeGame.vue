@@ -140,7 +140,7 @@ export default {
         }
     },
     created(){
-        const apiURL = `http://localhost:5000/api/game/find/${this.$route.params.id}`
+        const apiURL = `http://apivue.app.ruk-com.cloud/api/game/find/${this.$route.params.id}`
         axios.get(apiURL).then((res)=>{
             this.game = res.data
         })
