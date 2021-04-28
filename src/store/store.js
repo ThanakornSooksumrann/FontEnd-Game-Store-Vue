@@ -2,7 +2,7 @@ import Vue from "vue";
 import Vuex from "vuex";
 import Axios from "axios";
 
-let mongo_api = "http://raccoongame.app.ruk-com.cloud/api/game/";
+let mongo_api = "http://apivue.app.ruk-com.cloud/api/game/";
 
 Vue.use(Vuex);
 
