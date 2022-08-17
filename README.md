@@ -1,1 +1,1 @@
-# Fontendvue
+# Study Fontend Web Game Store (Vue)
